@@ -1,0 +1,10 @@
+span.highlight {
+    background: yellow;
+}
+input.form-ordering {
+    max-width: 45px;
+    text-align: center;
+}
+.form-control{
+    padding: 0;
+}
